@@ -7,3 +7,10 @@ Git Collaboration Live Lesson
 ## More Useful stuff
  - 'https://github.com/MrIonic/2019-11-11-git_adam_class.git
  - 'git log --oneline --all --decorate --graph  
+ - 'fetch --prune' : sync remote information and delete any remote branches
+
+## Merging
+- pull request: merging branches on the github interface
+ - lets you review code
+ - aka: merge request
+ - 'merge <branch>: merges the branch into the  current branch
