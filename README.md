@@ -1,4 +1,4 @@
-# 2019-11-11-git_adam_class
+# 2019-11-11-git_adam_class -- conflict first -- more stuff
 Git Collaboration Live Lesson
 ## Branches
  - 'branch my_name : create a branch called my_name
